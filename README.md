@@ -69,6 +69,7 @@
 - KOSS 8개 영역: https://qugo.kr/guide/koss-eight-areas
 - KOSS 결과 해석: https://qugo.kr/guide/koss-result-interpretation
 - 직무스트레스 평가 총정리: https://qugo.kr/guide/job-stress-assessment
+- 큐고 블로그(직장인용 쉬운 글): https://qugo.tistory.com
 
 ## 출처와 이용
 
